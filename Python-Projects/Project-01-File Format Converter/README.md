@@ -12,8 +12,8 @@ To improve the efficiency of our data engineering pipelines, we need to convert 
 ## Requirements
 - Python 3.7+
 - `pandas`
-- `json`
-- `logging`
+- `pytest`
+
 
 Install dependencies with:
 ```bash
