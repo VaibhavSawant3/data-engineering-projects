@@ -1,0 +1,3 @@
+pandas>=1.5.3
+pytest>=7.4.0
+glob2>=0.7
