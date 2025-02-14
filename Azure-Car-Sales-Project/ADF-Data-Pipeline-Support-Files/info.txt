@@ -1,0 +1,6 @@
+selected resource name:		increm_data_pipeline
+selected resource type:		pipeline
+factory name:			adf-car-vaibhav
+factory location:		eastus
+subscription id:		034c4c4f-6e5f-4560-98a9-ed06209d5318
+time of download (UTC):		Fri, 14 Feb 2025 13:50:40 GMT
