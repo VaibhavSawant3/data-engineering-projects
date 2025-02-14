@@ -9,8 +9,8 @@ Each folder in this repository contains a separate project with its own README f
 
 ## 📌 Featured Projects
 
-- **[Project 1 - File-Format-Converter](https://github.com/VaibhavSawant3/data-engineering-projects/tree/bec774b9ef627d66c522b7be0f274f5522ce8e50/Python-Projects/Project-01-File%20Format%20Converter)**: Brief description of what this project does. 
-- **[Project 2 - Name](./project-2/README.md)**: Brief description of what this project does.
+- **[Project 1 - File-Format-Converter](https://github.com/VaibhavSawant3/data-engineering-projects/tree/bec774b9ef627d66c522b7be0f274f5522ce8e50/Python-Projects/Project-01-File%20Format%20Converter)**: 
+- **[Project 2 - Azure-Car-Sales-Project](https://github.com/VaibhavSawant3/data-engineering-projects/tree/8e5d4f62df0add4d61d6a675c5cbc4256d948338/Azure-Car-Sales-Project)**: .
   
 ## 🛠️ Technologies Used
 
@@ -33,5 +33,5 @@ Each folder in this repository contains a separate project with its own README f
 - Adding more real-world data engineering projects.
 - Implementing data pipeline automation.
 - Exploring streaming data processing.
-- 
+
 Feel free to explore and contribute! If you have any suggestions, open an issue or reach out. Happy coding! 😊
