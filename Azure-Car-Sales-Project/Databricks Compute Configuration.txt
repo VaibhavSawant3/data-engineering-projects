@@ -1,0 +1,8 @@
+Databricks Compute Configuration 
+Summary :
+Standard_DS3_v2
+1 Driver
+14 GB Memory, 4 Cores
+Runtime
+15.4.x-scala2.12
+Unity Catalog
