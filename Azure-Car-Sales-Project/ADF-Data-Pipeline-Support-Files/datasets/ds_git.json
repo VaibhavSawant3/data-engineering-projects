@@ -1,0 +1,31 @@
+{
+    "name": "ds_git",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "ls_github",
+            "type": "LinkedServiceReference"
+        },
+        "parameters": {
+            "load_flag": {
+                "type": "string"
+            }
+        },
+        "annotations": [],
+        "type": "DelimitedText",
+        "typeProperties": {
+            "location": {
+                "type": "HttpServerLocation",
+                "relativeUrl": {
+                    "value": "VaibhavSawant3/data-engineering-projects/refs/heads/main/Azure-Car-Sales-Project/Raw%20Data/@{dataset().load_flag}",
+                    "type": "Expression"
+                }
+            },
+            "columnDelimiter": ",",
+            "escapeChar": "\\",
+            "firstRowAsHeader": true,
+            "quoteChar": "\""
+        },
+        "schema": []
+    },
+    "type": "Microsoft.DataFactory/factories/datasets"
+}
