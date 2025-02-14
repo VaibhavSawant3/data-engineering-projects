@@ -9,7 +9,7 @@ Each folder in this repository contains a separate project with its own README f
 
 ## 📌 Featured Projects
 
-- **[Project 1 - Name](./project-1/README.md)**: Brief description of what this project does.
+- **[Project 1 - Name](.Python-Projects/Project-01-File Format Converter/README.md)**: Brief description of what this project does.
 - **[Project 2 - Name](./project-2/README.md)**: Brief description of what this project does.
   
 ## 🛠️ Technologies Used
